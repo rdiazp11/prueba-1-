@@ -1,0 +1,17 @@
+{
+    "name": "sauce_demo1",
+    "version": "1.0.0",
+    "description": "prueba de venta",
+    "main": "index.js",
+    "scripts": {
+        "test": "cypress open"
+    },
+    "author": "rafael diaz",
+    "license": "ISC",
+    "dependencies": {
+        "-": "^0.0.1"
+    },
+    "devDependencies": {
+        "cypress": "^12.13.0"
+    }
+}
